@@ -1,0 +1,34 @@
+#container{
+    background-color: wheat;
+    padding-left: 300px;
+    text-align: left;
+    margin-left: 20%;
+    }
+
+#head{
+    color: brown;
+    display: inline-flex;
+    
+    
+}
+image{
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin: 50%;
+    padding-left: 50px;
+}
+p{
+    color: brown;
+}
+#menu{
+    padding-left: 100px;
+    padding-right: 50px;
+}
+h3{
+    color: brown;
+}
+p{
+    color: black;
+}
